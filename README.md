@@ -6,6 +6,10 @@ This colorblind-friendly heatmap palette relies on a green-to-red spectrum, whic
 
 The end result is a heatmap spectrum that reads intuitively for the fully-sighted as well as those with varying degrees of red/green colorblindness. To read more about its development and see examples, visit [Wistia's blog post about it] (http://wistia.com/blog/heatmaps-for-colorblindness).
 
+The hues that compose this palette:
 ![alt tag](/heatmap-palette.png)
+
+How those hues appear through a deuteranopia-type filter:
+![alt tag](/heatmap-palette-filter.png)
 
 The use of these colors is strongly encouraged, and permitted under the MIT license.
