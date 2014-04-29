@@ -12,4 +12,4 @@ The hues that compose this palette:
 How those hues appear through a deuteranopia-type filter:
 ![alt tag](/heatmap-palette-filter.png)
 
-The use of these colors is strongly encouraged, and permitted under the MIT license.
+The use of these colors is strongly encouraged, and permitted under the [MIT license](/LICENSE).
